@@ -1,29 +1,3 @@
-English:
-# DisableInteraction
-This server plugin applies to MineCraft,This plugin allows you to control the player's behavior.
-What if your players are always playing pranks? Use this plug-in to control them
-Let them give in to you, not a prank!
-Function introduction:
-There are 15 events that can control players
-  - Go to bed
-  - Chat
-  - Use command
-  - Drop items
-  - Edit books and pens
-  - Use fishing rod
-  - Change game mode
-  - Interact with objects or air
-  - Use items
-  - Hand held items
-  - Kick out the server
-  - Move
-  - Use scissors
-  - Fly
-  - Untie the tether
-
-be careful:
-	This plugin is for entertainment only. The author is not responsible for the consequences caused by your use of this plugin
-
 简体中文
 # DisableInteraction
 这个服务器插件适用于MineCraft，这个插件允许你控制玩家的行为。
@@ -51,6 +25,32 @@ be careful:
 注意：
   本插件仅供娱乐，你使用此插件所带来的后果作者概不负责
 
+English:
+# DisableInteraction
+This server plugin applies to MineCraft,This plugin allows you to control the player's behavior.
+What if your players are always playing pranks? Use this plug-in to control them
+Let them give in to you, not a prank!
+Function introduction:
+There are 15 events that can control players
+  - Go to bed
+  - Chat
+  - Use command
+  - Drop items
+  - Edit books and pens
+  - Use fishing rod
+  - Change game mode
+  - Interact with objects or air
+  - Use items
+  - Hand held items
+  - Kick out the server
+  - Move
+  - Use scissors
+  - Fly
+  - Untie the tether
+
+be careful:
+	This plugin is for entertainment only. The author is not responsible for the consequences caused by your use of this plugin
+	
 繁體中文
 
 # DisableInteraction
