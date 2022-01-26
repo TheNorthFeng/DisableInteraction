@@ -4,26 +4,25 @@ This server plugin applies to MineCraft,This plugin allows you to control the pl
 What if your players are always playing pranks? Use this plug-in to control them
 Let them give in to you, not a prank!
 Function introduction:
-
-There are 15 events that can control players
--Go to bed
--Chat
--Use command
--Drop items
--Edit books and pens
--Use fishing rod
--Change game mode
--Interact with objects or air
--Use items
--Hand held items
--Kick out the server
--Move
--Use scissors
--Fly
--Untie the tether
+	There are 15 events that can control players:
+		-Go to bed
+		-Chat
+		-Use command
+		-Drop items
+		-Edit books and pens
+		-Use fishing rod
+		-Change game mode
+		-Interact with objects or air
+		-Use items
+		-Hand held items
+		-Kick out the server
+		-Move
+		-Use scissors
+		-Fly
+		-Untie the tether
 
 be careful:
-  This plugin is for entertainment only. The author is not responsible for the consequences caused by your use of this plugin
+	This plugin is for entertainment only. The author is not responsible for the consequences caused by your use of this plugin
 
 简体中文
 # DisableInteraction
@@ -32,26 +31,26 @@ be careful:
 让他们向你屈服，而不是恶作剧！
 
 功能介绍：
-  共有15个事件可以控制玩家
-  - 上床睡觉
-  - 聊天
-  - 使用命令
-  - 丢下物品
-  - 编辑书与笔
-  - 使用钓鱼竿
-  - 改变游戏模式
-  - 对象或空气进行交互
-  - 使用物品
-  - 手持物品
-  - 踢出服务器
-  - 移动
-  - 使用剪刀
-  - 飞行
-  - 解开栓绳
+	共有15个事件可以控制玩家:
+		- 上床睡觉
+		- 聊天
+		- 使用命令
+		- 丢下物品
+		- 编辑书与笔
+		- 使用钓鱼竿
+		- 改变游戏模式
+		- 对象或空气进行交互
+		- 使用物品
+		- 手持物品
+		- 踢出服务器
+		- 移动
+		- 使用剪刀
+		- 飞行
+		- 解开栓绳
 
 注意：
-  本插件仅供娱乐，你使用此插件所带来的后果作者概不负责
-  
+本插件仅供娱乐，你使用此插件所带来的后果作者概不负责
+
 繁體中文
 
 # DisableInteraction
@@ -65,24 +64,22 @@ be careful:
 
 
 功能介紹：
-
-共有15個事件可以控制玩家
-
--上床睡覺
--聊天
--使用命令
--丟下物品
--編輯書與筆
--使用釣魚竿
--改變遊戲模式
--對象或空氣進行互動
--使用物品
--手持物品
--踢出服務器
--移動
--使用剪刀
--飛行
--解開栓繩
+	共有15個事件可以控制玩家:
+		-上床睡覺
+		-聊天
+		-使用命令
+		-丟下物品
+		-編輯書與筆
+		-使用釣魚竿
+		-改變遊戲模式
+		-對象或空氣進行互動
+		-使用物品
+		-手持物品
+		-踢出服務器
+		-移動
+		-使用剪刀
+		-飛行
+		-解開栓繩
 
 注意：
-  本挿件僅供娛樂，你使用此挿件所帶來的後果作者概不負責
+	本挿件僅供娛樂，你使用此挿件所帶來的後果作者概不負責
