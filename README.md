@@ -4,7 +4,7 @@ This server plugin applies to MineCraft,This plugin allows you to control the pl
 What if your players are always playing pranks? Use this plug-in to control them
 Let them give in to you, not a prank!
 Function introduction:
-  There are 15 events that can control players:
+There are 15 events that can control players:
     -Go to bed
     -Chat
     -Use command
@@ -31,7 +31,7 @@ be careful:
 让他们向你屈服，而不是恶作剧！
 
 功能介绍：
-  共有15个事件可以控制玩家:
+共有15个事件可以控制玩家:
     - 上床睡觉
     - 聊天
     - 使用命令
@@ -64,7 +64,7 @@ be careful:
 
 
 功能介紹：
-  共有15個事件可以控制玩家:
+共有15個事件可以控制玩家:
     -上床睡覺
     -聊天
     -使用命令
