@@ -1,0 +1,114 @@
+#插件前缀
+Prefix: "§7[§6§lDisableInteraction§7]"
+#当玩家破坏方块时调用
+BlockBreakEvent:
+  #是否开启
+  Enable: true
+  #关闭后拥有此权限的人可以使用此事件
+  permission: disableinteraction.blockbreak
+  #关闭后向没有权限的人所发送的消息
+  message: "§c你没有权限破坏方块"
+#当玩家放置方块时调用
+BlockPlaceEvent:
+  #是否开启
+  Enable: true
+  #关闭后拥有此权限的人可以使用此事件
+  permission: disableinteraction.blockplace
+  #关闭后向没有权限的人所发送的消息
+  message: "§c你没有权限放置方块"
+#当玩家聊天时触发这个事件
+ChatEvent:
+  #是否开启
+  Enable: true
+  #关闭后拥有此权限的人可以使用此事件
+  permission: disableinteraction.chat
+  #关闭后向没有权限的人所发送的消息
+  message: "§c你没有权限使用聊天"
+#玩家准备躺到床上时触发此事件
+BedEnterEvent:
+  Enable: true
+  permission: disableinteraction.bedenter
+  message: "§c你没有权限使用床"
+#当一个玩家执行一个命令的时候将会被触发
+CommandPreprocessEvent:
+  Enable: true
+  permission: disableinteraction.commandpreprocess
+  message: "§c你没有权限使用任何指令"
+#玩家丢出物品事件
+DropItemEvent:
+  Enable: true
+  permission: disableinteraction.dropitem
+  message: "§c你没有权限丢出物品"
+#当玩家编辑或签名书与笔时触发
+EditBookEvent:
+  Enable: true
+  permission: disableinteraction.editbook
+  message: "§c你没有权限编辑书与笔"
+#当玩家钓鱼时触发本事件
+FishEvent:
+  Enable: true
+  permission: disableinteraction.fish
+  message: "§c你没有权限使用钓鱼竿"
+#当玩家游戏模式发生变化时调用此事件
+GameModeChangeEvent:
+  Enable: true
+  permission: disableinteraction.gamemodechange
+  message: "§c你没有权限改变你的游戏模式"
+#当玩家消耗完物品时, 此事件将触发 例如:(食物, 药水, 牛奶桶).
+ItemConsumeEvent:
+  Enable: true
+  permission: disableinteraction.itemconsume
+  message: "§c你没有权限使用此物品"
+#当玩家对一个对象或空气进行交互时触发本事件
+InteractEvent:
+  Enable: true
+  permission: disableinteraction.interact
+  message: "§c你没有权限对一个对象或空气进行交互"
+#玩家手持某物品事件
+ItemHeldEvent:
+  Enable: true
+  permission: disableinteraction.itemheld
+  message: "§c你没有权限手持此物品"
+#玩家被服务器踢出事件 (不建议修改,似乎没什么卵用?)
+KickEvent:
+  Enable: true
+  permission: disableinteraction.kick
+  message: "§c你没有权限被服务器踢出事件 qwq"
+#玩家移动事件(高频事件，斟酌使用)
+MoveEvent:
+  Enable: true
+  permission: disableinteraction.move
+  message: "§c你没有权限移动"
+#玩家对某实体使用剪刀采集物品时调用此事件
+#对羊使用, 采集羊毛
+#对哞菇使用, 采集蘑菇, 并使哞菇变成牛
+#对雪傀儡使用, 摘掉雪傀儡戴着的南瓜头, 但不会掉落南瓜物品
+ShearEntityEvent:
+  Enable: true
+  permission: disableinteraction.shearentity
+  message: "§c你没有权限使用剪刀采集物品"
+#玩家切换飞行状态则调用此事件
+ToggleFlightEvent:
+  Enable: true
+  permission: disableinteraction.toggleflight
+  message: "§c你没有权限飞行"
+#当一个实体被玩家解开拴绳时调用
+UnleashEntityEvent:
+  Enable: true
+  permission: disableinteraction.unleashentity
+  message: "§c你没有权限解开此栓绳"
+#当玩家在告示牌里写字时触发（没有写字无法监控）
+SignChangeEvent:
+  Enable: true
+  permission: disableinteraction.bucket
+  message: "§c你没有权限在告示牌上写字！"
+#当物品成功附魔时调用（当前物品处于附魔台中）
+EnchantItemEvent:
+  Enable: true
+  permission: disableinteraction.enchantitem
+  message: "§c你没有权限附魔物品"
+#在附魔表中放入物品时调用
+PrepareItemEnchantEvent:
+  Enable: true
+  permission: disableinteraction.prepareitemenchan
+  message: "§c你没有权限在附魔台上放置物品"
