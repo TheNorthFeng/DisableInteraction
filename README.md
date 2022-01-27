@@ -21,6 +21,10 @@
   - 使用剪刀
   - 飞行
   - 解开栓绳
+  - 放置方块
+  - 破坏方块
+  - 将物品放进附魔台
+  - 将物品附魔
 
 注意：
   本插件仅供娱乐，你使用此插件所带来的后果作者概不负责
@@ -47,6 +51,10 @@ There are 15 events that can control players
   - Use scissors
   - Fly
   - Untie the tether
+  - Place Block
+  - Destruction block
+  - Put the item into the enchant table
+  - Enchant items
 
 be careful:
 	This plugin is for entertainment only. The author is not responsible for the consequences caused by your use of this plugin
@@ -80,6 +88,10 @@ be careful:
   - 使用剪刀
   - 飛行
   - 解開栓繩
+  - 放置方块
+  - 破壞方塊
+  - 將物品放入附魔表
+  - 附魔物品
 
 注意：
   本挿件僅供娛樂，你使用此挿件所帶來的後果作者概不負責
